@@ -1,11 +1,23 @@
 ---
-title: "ethanblacher.github.io"
+title: "Ethan Blacher"
+image: headshot.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 23em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/ethan-blacher3
+    - text: Twitter
+      href: https://twitter.com/SamanthaCsik
+    - text: GitHub
+      href: https://github.com/ethanblacher
+    - text: Email
+      href: mailto:ethanblacher@ucsb.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
 ```{r}
-1 + 1
+
 ```
+
+Issa parade inside my city
