@@ -1,0 +1,11 @@
+---
+layout: gallery
+dependencies:
+  - quarto-gallery
+---
+
+```         
+- ![](/github/ethanblacher.github.io/photos/wAndrew420.JPG)
+- ![](/github/ethanblacher.github.io/photos/wIdenUCB.JPG)
+- ![](/github/ethanblacher.github.io/photos/wIdenLeorKumron.JPG)
+```
