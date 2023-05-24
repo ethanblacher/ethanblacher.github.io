@@ -47,5 +47,19 @@
     "title": "blog",
     "section": "",
     "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMay 12, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 9, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/1st post/index.html",
+    "href": "posts/1st post/index.html",
+    "title": "blog post title",
+    "section": "",
+    "text": "title: “blog post title” description: “blog post description (appears underneath the title in smaller text) which is included on the listing page” author: - name: Ethan Bacher url: https://samanthacsik.github.io/ orcid: 0000-0002-5300-3075 affiliation: UCSB Student date: 05-24-2023 categories: [Quarto, R, MEDS] # self-defined categories citation: url: https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/ image: preview_image.jpg draft: false # setting this to true will prevent your post from appearing on your listing page until you’re ready!\n\n\n\n\nCitationBibTeX citation:@online{bacher2023,\n  author = {Ethan Bacher},\n  title = {Blog Post Title},\n  date = {2023-05-24},\n  url = {https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nEthan Bacher. 2023. “Blog Post Title.” May 24, 2023. https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "EthanBlog",
+    "section": "",
+    "text": "blog post title\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nMay 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nMay 9, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
