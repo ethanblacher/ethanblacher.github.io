@@ -103,5 +103,12 @@
     "title": "Ethan Blacher",
     "section": "",
     "text": "title: Photo Gallery output: quarto::quarto_html: dependencies: - quarto-gallery —\n```{gallery, layout=“grid”}\n![wAndrew420](~/github/ethanblacher.github.io/photos)"
+  },
+  {
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "Ethan Blacher",
+    "section": "",
+    "text": "library(quarto)\n\nquarto::quarto_html({\n  cat('''\n  ![wAndrew420.JPG](~/github/ethanblacher.github.io/photos)\n  ![wAndrew420](~/github/ethanblacher.github.io/photos)\n  ![wAndrew420](~/github/ethanblacher.github.io/photos)\n  ''')\n})"
   }
 ]
