@@ -1,0 +1,48 @@
+---
+title: "Adult Sea Turtles and Predation"
+#description: "blog post description (appears underneath the title in smaller text) which is included on the listing page"
+author:
+  - name: Ethan Bacher
+date: 05-24-2023
+categories: [Quarto, R, MEDS] # self-defined categories
+#citation: 
+ # url: https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/ 
+image: preview_image.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+**Summary:**
+
+Although adult sea turtles are rarely killed by predators in the open ocean, predation risk still has a big impact on their behavior. Sea turtles routinely avoid areas where predators lurk and hence their feeding patterns are largely shaped based off of where they think predators are, regardless of whether they actually are there or not. A couple studies have indicated that perhaps sea turtles are not getting adequate nutrition due to the perceived risk of predators in the general vicinity, but the results are far from conclusive. In order to better protect sea turtles it is essential to have a better understanding of their relationship with predators, which can be accomplished by devoting more resources towards studying the dynamics between sea turtles and their main predator: the tiger shark.
+
+**Introduction:**
+
+Sea turtles face a plethora of threats, resulting in six out of the seven species listed as either vulnerable, endangered, or critically endangered, with the flatback turtle not fitting into these criterion because it has an insufficient amount of data (IUCN, 2022). Sea turtle populations are declining due to acute risks such as hunting and overfishing along with pernicious effects like pollution and climate change (Sea Turtle Conservancy, 2022). Another danger facing sea turtles is temperature dependent sex determination (TSD), which basically means that the sex of turtle eggs is more influenced by incubation temperatures than genetics. Rising temperatures could spell disaster for sea turtles, as hotter temperatures will breed a disproportionate amount of females. Most of the main threats facing sea turtles are anthropogenically induced, and it looks like sea turtles numbers may continue to decrease as the world warms.
+
+**Justification:**
+
+	The research between sea turtles and their predators often focuses on sea turtle eggs and infants due to their ultra-low survival rate and vulnerability.  Since sea turtles eggs are such common prey coupled with the fact that many nascent sea turtles don\'t survive to see adulthood, the research on adult sea turtle\'s predator relation has largely been ignored. The greatest predator to adult sea turtles over the past few hundred years by far have been humans, however not much is known about the relationship between adult sea turtles and their other natural predators. There are a few reasons why there is not that much research on adult sea turtles and predation, with the main one being that there is an inverse relationship between sea turtle size and mortality. The larger sea turtles grow the less susceptible they are to predators due to their \'size refuge\', increased experience, and safer living environments.
+
+	One of the most vulnerable times for an adult sea turtle, specifically females, is when they are nesting. On land sea turtles have limited mobility and are sitting ducks for predators, which range from jaguars in South America to crocodiles in Australia. Although these imposing predators are capable of turtle massacres---as evidenced by a Suriname jaguar who killed 13 green turtles over just a couple days---their impact on sea turtle populations is still very small (Heithaus, M. R., Wirsing, A. J, et al., 2008).
+
+	In the ocean, adult sea turtles have very few predators, with sharks being the main danger.  Although occasionally a bull shark or white shark will attack a sea turtle, tiger sharks are their most common predator. Tiger sharks are the perfect sea turtle predator because of their combination of jagged teeth, wide mouth, and immense size---growing an average of 12 feet and weighing over 1,000 pounds. Furthermore, tiger sharks largely reside in tropical and temperate warm water environments, which is also where a majority of sea turtles live. Turtles are a staple of the tiger shark diet, and studies examining the stomachs of tiger sharks have increased scientists\' understanding of their relationship. For example, out of 22 random tiger sharks sampled in the Philippines, 11 had hawksbill remains in their stomach (Heithaus, M. R., Wirsing, A. J, et al., 2008). Additionally, across the globe in Western Australia turtles were found in the stomachs of more than 70% of the largest sharks sampled (Heithaus, M. R., Wirsing, A. J, et al., 2008). While there are a few other sea animals which have been documented killing sea turtles, such as orcas and monk seals, attacks are so rare they don\'t pose a real threat.
+
+	The relationship between sea turtles and tiger sharks have a massive impact on ecosystems, and new research has shed light on the exact nuances of their relationship. In 2007 behavioral ecologists launched a study in Australia to determine if the mere presence of tiger sharks served as a deterrent for foraging turtles. This study had massive ecological implications because sea turtles play an important role in seagrass chemical composition and the detrital cycle (Heithaus, M. R., Frid, A., et al., 2007). Since sea turtles have such a large impact on sea grass, which acts not only as a natural carbon sink but the foundation of marine ecosystems, where they graze is essential to a plethora of marine organisms across trophic levels.
+
+	The area studied in Western Australia is home to ample seagrass and a large population of green turtles who have no predators except for tiger sharks, which are common from September-May but absent from June-August (Heithaus, M. R., Frid, A., et al., 2007). Risk of predation for turtles is highest in the middle of shallow banks because they are the furthest from deep water, where they can outmaneuver tiger sharks. However, the quality and quantity of seagrass is highest in the middle of these banks, facing sea turtles with the choice of risk and satiation or safety and hunger. Researchers compared turtle foraging behavior during summer and winter and found that turtles spent more time on the edge during summer (when sharks were abundant). Furthermore, researchers subdivided the sea turtle behavior by health and found that healthy sea turtles were very risk averse while unhealthy sea turtles took more risks. This is not the only instance of predation shaping sea turtles\' environments, as green turtles also feed in shallow lava beaches in Hawaii and shallow waters with ample mangrove protection in the Everglades (Wyneken, J., et al., 2013).
+
+**Conclusion:**
+
+These studies shows that predation risk (as opposed to actual predation) is one of the biggest threats for adult sea turtles. Furthermore, while conventional wisdom explains the decreasing number of turtles due to food scarcity, it is actually much more likely that it is from predation risk. For example, after the extinction of wolves in the western United States white tailed deer populations substantially increased, despite the fact that wolf predation was relatively low (Heithaus, M. R., Wirsing, A. J, et al., 2008). In order to best manage sea turtle population, scientists will need to continue to monitor tiger shark populations as well, as it seems there is an intimate relationship between them. Although there have been a few studies documenting the relationship between turtles and tiger sharks, the research is limited and the sample sizes are small. Additionally, research is predominantly centered around green sea turtles and sea grass, while other species such as hawksbill turtles have impacts on other ecosystems (coral reefs). The IUCN should devote special resources and funding into further exploring the relationship between tiger sharks and all species of sea turtles along with the environments they inhabit.
+
+Citation:
+
+Heithaus, M. R., Frid, A., Wirsing, A. J., Dill, L. M., Fourqurean, J. W., Burkholder, D., Thomson, J., & Bejder, L. (2007). State-dependent risk-taking by green sea turtles mediates top-down effects of tiger shark intimidation in a marine ecosystem. *Journal of Animal Ecology, 76*(5), 837-844.<https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2656.2007.01260.x>
+
+Heithaus, M. R., Wirsing, A. J., Thomson, J. A., & Burkholder, D. A. (2008). A review of lethal and non-lethal effects of predators on adult marine turtles. *Journal of Experimental Marine Biology and Ecology, 356*(1-2), 43-51. <https://www.sciencedirect.com/science/article/pii/S0022098107005801?casa_token=YhnPHdOxYQ0AAAAA:VGlXZd54V8h5qrz-VI7FJVHbBSl_NNxotd3k_dcWyaeHpqp2KOjV4OhS_uY0RWBv59B3dEaZ0iM>
+
+International Union for Conservation of Nature. (2022). *Sea Turtles*. <https://www.iucnredlist.org/search?query=sea%20turtle&searchType=species>
+
+Sea Turtle Conservancy. (2022). *Threats to Sea Turtles*. <https://conserveturtles.org/information-sea-turtles-threats-sea-turtles/>
+
+Wyneken, J., Lohmann, K. J., Musick, J. A. (2013). *The Biology of Sea Turtles, Volume III*. CRC Press.
