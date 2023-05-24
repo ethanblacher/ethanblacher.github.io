@@ -8,8 +8,9 @@ about:
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/ethan-blacher3
-    - text: Twitter
-      href: https://twitter.com/SamanthaCsik
+  #I don't have a twitter, but mabye I'll use it later or add another Icon
+   # - text: Twitter
+   #   href: 
     - text: GitHub
       href: https://github.com/ethanblacher
     - text: Email
@@ -20,7 +21,7 @@ Hi, I'm Ethan and thanks for visiting my site!
 
 # **Education**
 
-**University of California, Santa Barbara 2023**
+**University of California, Santa Barbara \| 2023**
 
 -   Major in Economics and Accounting, Major in Environmental Studies
 
@@ -28,7 +29,7 @@ Hi, I'm Ethan and thanks for visiting my site!
 
 # **Experience**
 
-**PricewaterhouseCoopers,** Los Angeles June 2022 -- August 2022
+**PricewaterhouseCoopers,** Los Angeles \| June 2022 -- August 2022
 
 *Summer Intern, Financial Due Diligence*
 
@@ -36,7 +37,7 @@ Hi, I'm Ethan and thanks for visiting my site!
 
 -   Analyzed financial statements, business models, and participated in management meetings to identify and assess financial and business trends.
 
-**Ralph's,** Los Angeles April 2020 -- August 2020
+**Ralph's,** Los Angeles \| April 2020 -- August 2020
 
 *Courtesy Clerk*
 
@@ -44,7 +45,7 @@ Hi, I'm Ethan and thanks for visiting my site!
 
 -   Managed grocery bagging for multiple cashiers, sanitized store in an effort to protect against Covid-19, and collected shopping carts from the parking lot.
 
-**Camp Ramah in California** June 2019 -- August 2019
+**Camp Ramah in California,** Ojai \| June 2019 -- August 2019
 
 *Summer Camp Counselor*
 
