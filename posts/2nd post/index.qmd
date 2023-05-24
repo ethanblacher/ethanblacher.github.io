@@ -3,6 +3,7 @@ title: "Wildlife Farming: A Solution to Poaching"
 description: "Post description"
 author: "Ethan Blacher"
 date: "5/24/2023"
+image: rhino.jpeg
 draft: true
 ---
 

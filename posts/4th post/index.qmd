@@ -3,6 +3,7 @@ title: "Gap Year"
 description: "Post description"
 author: "Ethan Blacher"
 date: "5/24/2023"
+image: gap.jpeg
 draft: true
 ---
 

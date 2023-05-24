@@ -3,6 +3,7 @@ title: "Gluten Free"
 description: "Post description"
 author: "Ethan Blacher"
 date: "5/24/2023"
+image: gf.jpeg
 draft: true
 ---
 
