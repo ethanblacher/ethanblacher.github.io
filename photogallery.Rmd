@@ -1,11 +1,25 @@
----
-layout: gallery
-dependencies:
-  - quarto-gallery
----
+\<div id="gallery"\>\</div\>
+
+```{css}
+<style>
+/* Add custom CSS styles for the gallery container and images */
+#gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 10px;
+}
+
+#gallery img {
+  max-width: 100%;
+  height: auto;
+}
+</style>
+```
 
 ```         
-- ![](/github/ethanblacher.github.io/photos/wAndrew420.JPG)
-- ![](/github/ethanblacher.github.io/photos/wIdenUCB.JPG)
-- ![](/github/ethanblacher.github.io/photos/wIdenLeorKumron.JPG)
+<div id="gallery">
+![Image 1](~/github/ethanblacher.github.io/photos)
+![Image 2](~/github/ethanblacher.github.io/photos)
+![Image 3](/github/ethanblacher.github.io/photos)
+</div>
 ```
