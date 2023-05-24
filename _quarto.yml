@@ -10,11 +10,9 @@ website:
         text: Home
       - about.qmd
       - resources.qmd
-     # - href: blog.qmd
-      #  text: blog
+      - posts.qmd # add your posts.qmd file to your navbar!
+
     
-
-
 format:
   html:
     theme: slate
