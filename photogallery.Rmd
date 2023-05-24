@@ -18,8 +18,8 @@
 
 ```         
 <div id="gallery">
-![Image 1](~/github/ethanblacher.github.io/photos)
-![Image 2](~/github/ethanblacher.github.io/photos)
-![Image 3](/github/ethanblacher.github.io/photos)
+![wAndrew420.JPG](~/github/ethanblacher.github.io/photos)
+![wAndrew420.JPG](~/github/ethanblacher.github.io/photos)
+![wAndrew420](/github/ethanblacher.github.io/photos)
 </div>
 ```

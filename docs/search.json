@@ -102,6 +102,6 @@
     "href": "photogallery.html",
     "title": "Ethan Blacher",
     "section": "",
-    "text": "- ![](/github/ethanblacher.github.io/photos/wAndrew420.JPG)\n- ![](/github/ethanblacher.github.io/photos/wIdenUCB.JPG)\n- ![](/github/ethanblacher.github.io/photos/wIdenLeorKumron.JPG)"
+    "text": "<div id=“gallery”></div>\n\n<style>\n/* Add custom CSS styles for the gallery container and images */\n#gallery {\n  display: grid;\n  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));\n  gap: 10px;\n}\n\n#gallery img {\n  max-width: 100%;\n  height: auto;\n}\n</style>\n\n\n\n<div id=\"gallery\">\n![wAndrew420.JPG](~/github/ethanblacher.github.io/photos)\n![wAndrew420.JPG](~/github/ethanblacher.github.io/photos)\n![wAndrew420](/github/ethanblacher.github.io/photos)\n</div>"
   }
 ]
