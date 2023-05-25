@@ -15,7 +15,7 @@ format:
   html:
     theme: slate
           - mystyles.scss
-    mainfont: Crimson Text
+    mainfont: Crimson+Text
     css: styles.css
     page-layout: full
     #toc: true
