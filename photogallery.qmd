@@ -13,7 +13,7 @@ code-tools: false
 library(pixture)
 
 pixgallery(
-  list.files("/pictures", 
+  list.files("pictures", 
              full.names=TRUE),
   dim="350px",
   gap = "10px"
