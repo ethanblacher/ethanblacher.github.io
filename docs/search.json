@@ -58,9 +58,9 @@
   {
     "objectID": "photogallery.html",
     "href": "photogallery.html",
-    "title": "Ethan Blacher",
+    "title": "My Photos",
     "section": "",
-    "text": "title: Photo Gallery output: quarto::quarto_html: dependencies: - quarto-gallery —\n```{gallery, layout=“grid”}\n![wAndrew420](~/github/ethanblacher.github.io/photos)"
+    "text": "No matching items"
   },
   {
     "objectID": "gallery.html",

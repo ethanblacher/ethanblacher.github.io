@@ -9,5 +9,9 @@
   {
     "listing": "/posts.html",
     "items": []
+  },
+  {
+    "listing": "/photogallery.html",
+    "items": []
   }
 ]
