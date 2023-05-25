@@ -4,7 +4,7 @@ description: "Post description"
 author: "Ethan Blacher"
 date: "5/24/2023"
 image: gap.jpeg
-draft: true
+draft: false
 ---
 
 For as long as I can remember I have followed a simple, but effective, formula: work hard, do well, repeat. It got me through school with good grades, respectable standardized test scores, and meaningful jobs and volunteer opportunities. Everything was going to plan, until the Dodgers lost the World Series. 
