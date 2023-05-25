@@ -9,7 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - posts.qmd # add your posts.qmd file to your navbar!
-      - photogallery.qmd #add your photogallery.qmd to your navbar!
+      - text: Photos
+        href: photogallery.qmd #add your photogallery.qmd to your navbar!
 
 format:
   html:
