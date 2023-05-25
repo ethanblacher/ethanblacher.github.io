@@ -10,11 +10,11 @@ website:
         text: Home
       - posts.qmd # add your posts.qmd file to your navbar!
 
-  
 format:
   html:
     theme: slate
     css: styles.css
+    mainfont: Crimson Text
     page-layout: full
     #toc: true
 
