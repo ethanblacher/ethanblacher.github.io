@@ -6,18 +6,13 @@ page-layout: full
 code-tools: false
 ---
 
-::: {.column-screen}
+::: {layout-nrow=2}
+![Andrew and I Cal Day](pictures/wAndrew420.JPG)
 
-```{r}
-#| echo: false
-library(pixture)
+![Leor, Iden, and I in Kumron](pictures/wIdenLeorKumron.jpeg)
 
-pixgallery(
-  list.files("pictures", 
-             full.names=TRUE),
-  dim="350px",
-  gap = "10px"
-)
-```
+![Iden and I at UCB](pictures/wIdenUCB.JPG)
+![Lost Coast](pictures/lostcoast.jpeg)
+
 
 :::
