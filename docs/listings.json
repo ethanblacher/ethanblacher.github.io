@@ -8,7 +8,9 @@
   },
   {
     "listing": "/posts.html",
-    "items": []
+    "items": [
+      "/posts/1st post/index.html"
+    ]
   },
   {
     "listing": "/photogallery.html",
