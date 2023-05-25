@@ -1,9 +1,5 @@
 [
   {
-    "listing": "/photogallery.html",
-    "items": []
-  },
-  {
     "listing": "/posts.html",
     "items": [
       "/posts/5th post/index.html",
