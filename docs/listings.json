@@ -1,21 +1,15 @@
 [
   {
-    "listing": "/blog/eblog.html",
-    "items": [
-      "/blog/posts/post-with-code/index.html",
-      "/blog/posts/welcome/index.html"
-    ]
+    "listing": "/photogallery.html",
+    "items": []
   },
   {
     "listing": "/posts.html",
     "items": [
       "/posts/1st post/index.html",
       "/posts/6th post/index.html",
-      "/posts/4th post/index.html"
+      "/posts/4th post/index.html",
+      "/posts/2nd post/index.html"
     ]
-  },
-  {
-    "listing": "/photogallery.html",
-    "items": []
   }
 ]

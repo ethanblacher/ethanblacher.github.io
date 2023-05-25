@@ -13,7 +13,8 @@ website:
 
 format:
   html:
-    theme: slate
+    theme: 
+      slate
           - mystyles.scss
     mainfont: Crimson Text
     css: styles.css
