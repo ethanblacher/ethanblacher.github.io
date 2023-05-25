@@ -1,18 +1,56 @@
 ---
-title: "data viz gallery"
-subtitle: |
-  Pics.
+title: "Pictures with Freinds"
 page-layout: full
 code-tools: false
 ---
+<div class="image-container">
+  ![Andrew and I Cal Day](pictures/wAndrew420.JPG)
+</div>
 
-::: {layout-nrow=2}
-![Andrew and I Cal Day](pictures/wAndrew420.JPG)
+<div class="image-container">
+  ![Leor, Iden, and I in Kumron](pictures/wIdenLeorKumron.jpeg)
+</div>
 
-![Leor, Iden, and I in Kumron](pictures/wIdenLeorKumron.jpeg)
+<div class="image-container">
+  ![Iden and I at UCB](pictures/wIdenUCB.JPG)
+</div>
 
-![Iden and I at UCB](pictures/wIdenUCB.JPG)
-![Lost Coast](pictures/lostcoast.jpeg)
+<div class="image-container">
+  ![Lost Coast](pictures/lostcoast.jpeg)
+</div>
+
+<div class="image-container">
+  ![Bixby Bridge](pictures/big sur.jpeg)
+</div>
+
+<div class="image-container">
+  ![Capitol Reef](pictures/capitolreef.JPG)
+</div>
+
+<div class="image-container">
+  ![St. Louis](pictures/boolSTL.jpeg)
+</div>
+
+<div class="image-container">
+  ![Deltopia](pictures/deltopia.jpeg)
+</div>
+
+<div class="image-container">
+  ![Mega Shabbat](pictures/mega.JPG)
+</div>
 
 
-:::
+<style>
+.image-container {
+  display: inline-block;
+  width: 32%;
+  padding: 5px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.image-container img {
+  width: 100%;
+  height: auto;
+}
+</style>
