@@ -15,9 +15,9 @@ website:
 format:
   html:
     theme: 
-      - slate
+      - slate #changed the theme to slate
       - mystyles.scss
-    mainfont: Crimson Text
+    mainfont: Crimson Text #changed font to crimson text
     css: styles.css
     page-layout: full
     #toc: true
