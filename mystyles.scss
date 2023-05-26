@@ -4,26 +4,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
 
 // Colors
-$light-sage-green: #D1D9CE;
-$dark-sage-green: #98A08D;
-$cream: #FDFBF7;
-$gray: #64605f;
-$light-gray: #949799;
-$purple: #AE8BD1;
+$purple: purple;
+$dark-blue: darkblue;
+$azure: azure;
+$light-blue: lightblue;
+$indigo: indigo;
+$magenta: magenta;
 
 
 // Base document colors
-$navbar-bg: $cream; // navbar
-$navbar-fg: $dark-sage-green; // navbar foreground elements
+$navbar-bg: $azure; // navbar
+$navbar-fg: $magenta; // navbar foreground elements
 $navbar-hl: $purple; // highlight color when hovering over navbar links
-$body-bg: $light-sage-green; // page background 
-$body-color: $gray; // page text 
-$footer-bg: $cream; // footer 
+$body-bg: $indigo; // page background 
+$body-color: $light-blue; // page text 
+$footer-bg: $azure; // footer 
 $link-color: $purple; // hyperlinks 
 
 // Inline code
-$code-bg: $cream; // inline code background color
+$code-bg: $azure; // inline code background color
 $code-color: $purple; // inline code text color
 
 // Code blocks
-$code-block-bg: $cream; // code block background color
+$code-block-bg: $azure; // code block background color
