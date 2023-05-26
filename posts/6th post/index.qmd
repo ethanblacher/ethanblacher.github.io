@@ -1,6 +1,6 @@
 ---
 title: "Adult Sea Turtles and Predation"
-#description: "Post description"
+description: " "
 author: "Ethan Blacher"
 date: "5/24/2023"
 image: turtle.jpeg 
