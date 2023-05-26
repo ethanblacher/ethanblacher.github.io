@@ -1,5 +1,8 @@
 ---
 title: "Pictures with Freinds"
+filters:
+   - lightbox
+lightbox: auto
 page-layout: full
 code-tools: false
 ---
