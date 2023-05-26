@@ -1,6 +1,6 @@
 ---
 title: "Jewish National Fund ‘Greenwashing’"
-description: "Post description"
+#description: "Post description"
 author: "Ethan Blacher"
 date: "5/24/2023"
 image: jnf.jpeg
