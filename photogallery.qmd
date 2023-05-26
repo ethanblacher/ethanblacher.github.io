@@ -6,43 +6,44 @@ lightbox: auto
 page-layout: full
 code-tools: false
 ---
-<div class="image-container">
-  ![Andrew and I Cal Day](pictures/wAndrew420.JPG)
-</div>
 
-<div class="image-container">
-  ![Leor, Iden, and I in Kumron](pictures/wIdenLeorKumron.jpeg)
-</div>
+::: image-container
+![Cal Day](pictures/wAndrew420.JPG)
+:::
 
-<div class="image-container">
-  ![Iden and I at UCB](pictures/wIdenUCB.JPG)
-</div>
+::: image-container
+![Kumron](pictures/wIdenLeorKumron.jpeg)
+:::
 
-<div class="image-container">
-  ![Lost Coast](pictures/lostcoast.jpeg)
-</div>
+::: image-container
+![Tap Haus (Berkeley)](pictures/wIdenUCB.JPG)
+:::
 
-<div class="image-container">
-  ![Bixby Bridge](pictures/big sur.jpeg)
-</div>
+::: image-container
+![Lost Coast](pictures/lostcoast.jpeg)
+:::
 
-<div class="image-container">
-  ![Capitol Reef](pictures/capitolreef.JPG)
-</div>
+::: image-container
+![Bixby Bridge](pictures/big%20sur.jpeg)
+:::
 
-<div class="image-container">
-  ![St. Louis](pictures/boolSTL.jpeg)
-</div>
+::: image-container
+![Capitol Reef](pictures/capitolreef.JPG)
+:::
 
-<div class="image-container">
-  ![Deltopia](pictures/deltopia.jpeg)
-</div>
+::: image-container
+![St. Louis](pictures/boolSTL.jpeg)
+:::
 
-<div class="image-container">
-  ![Mega Shabbat](pictures/mega.JPG)
-</div>
+::: image-container
+![Deltopia](pictures/deltopia.jpeg)
+:::
 
+::: image-container
+![Mega Shabbat](pictures/mega.JPG)
+:::
 
+```{=html}
 <style>
 .image-container {
   display: inline-block;
@@ -57,3 +58,4 @@ code-tools: false
   height: auto;
 }
 </style>
+```
