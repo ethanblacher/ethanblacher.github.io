@@ -16,7 +16,7 @@ format:
   html:
     theme: 
       - slate #changed the theme to slate
-      - mystyles.scss
+     # - mystyles.scss
     mainfont: Crimson Text #changed font to crimson text
     css: styles.css
     page-layout: full
