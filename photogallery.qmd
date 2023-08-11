@@ -103,6 +103,10 @@ code-tools: false
 ![Grand Teton](pictures/grandteton.JPG)
 :::
 
+::: image-container
+![Emerald Pools](pictures/emeraldpools.JPG)
+:::
+
 ```{=html}
 <style>
 .image-container {
