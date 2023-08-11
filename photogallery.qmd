@@ -48,32 +48,85 @@ code-tools: false
 :::
 
 ::: image-container
-
 ![](pictures/altra.jpeg)
 
 Altra Lone Peak 7
+:::
 
+::: image-container
 ![Carmel by the Sea](pictures/carmel.JPG)
+:::
 
+::: image-container
 ![](pictures/cascade.jpeg)
 
 Cascade Locks
+:::
 
+::: image-container
 ![](pictures/iceburglake.JPG)
 
 Iceberg Lake
+:::
 
+::: image-container
 ![](pictures/yosemite.jpeg)
 
 Yosemite
+:::
 
+::: image-container
 ![](pictures/theU.jpg)
 
 The U
+:::
 
+::: image-container
 ![](pictures/orayta.JPG)
 
 Back in the Beis
+:::
+
+::: image-container
+![](pictures/troutlake.JPG)
+
+Trout Lake Hitch
+:::
+
+::: image-container
+![](pictures/hotelizzy.JPG)
+
+Tel Aviv
+:::
+
+::: image-container
+![](pictures/virginnarrows.JPG)
+
+Virgin Narrows
+:::
+
+::: image-container
+![](pictures/elephantseals.jpeg)
+
+Elephant Seals
+:::
+
+::: image-container
+![](pictures/santiam.JPG)
+
+Santiam Pass
+:::
+
+::: image-container
+![](pictures/fantasy.jpg)
+
+Fantasy
+:::
+
+::: image-container
+![](pictures/grandteton.JPG)
+
+Grand Teton
 :::
 
 ```{=html}
