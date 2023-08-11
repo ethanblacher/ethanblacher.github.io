@@ -47,6 +47,35 @@ code-tools: false
 ![Missoula](pictures/missoula.JPG)
 :::
 
+::: image-container
+
+![](pictures/altra.jpeg)
+
+Altra Lone Peak 7
+
+![Carmel by the Sea](pictures/carmel.JPG)
+
+![](pictures/cascade.jpeg)
+
+Cascade Locks
+
+![](pictures/iceburglake.JPG)
+
+Iceberg Lake
+
+![](pictures/yosemite.jpeg)
+
+Yosemite
+
+![](pictures/theU.jpg)
+
+The U
+
+![](pictures/orayta.JPG)
+
+Back in the Beis
+:::
+
 ```{=html}
 <style>
 .image-container {
