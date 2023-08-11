@@ -43,7 +43,9 @@ code-tools: false
 ![Mega Shabbat](pictures/mega.JPG)
 :::
 
-![Missoula](images/A053CBC2-FD02-4588-B681-987A710C4507.JPG)
+::: image-container
+![Missoula](pictures/missoula.JPG)
+:::
 
 ```{=html}
 <style>
