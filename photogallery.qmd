@@ -48,9 +48,7 @@ code-tools: false
 :::
 
 ::: image-container
-![](pictures/altra.jpeg)
-
-Altra Lone Peak 7
+![Altra Lone Peak 7](pictures/altra.jpeg)
 :::
 
 ::: image-container
@@ -58,75 +56,51 @@ Altra Lone Peak 7
 :::
 
 ::: image-container
-![](pictures/cascade.jpeg)
-
-Cascade Locks
+![Cascade Locks](pictures/cascade.jpeg)
 :::
 
 ::: image-container
-![](pictures/iceburglake.JPG)
-
-Iceberg Lake
+![Iceberg Lake](pictures/iceburglake.JPG)
 :::
 
 ::: image-container
-![](pictures/yosemite.jpeg)
-
-Yosemite
+![Yosemite](pictures/yosemite.jpeg)
 :::
 
 ::: image-container
-![](pictures/theU.jpg)
-
-The U
+![The U](pictures/theU.jpg)
 :::
 
 ::: image-container
-![](pictures/orayta.JPG)
-
-Back in the Beis
+![Back in the Beis](pictures/orayta.JPG)
 :::
 
 ::: image-container
-![](pictures/troutlake.JPG)
-
-Trout Lake Hitch
+![Trout Lake Hitch](pictures/troutlake.JPG)
 :::
 
 ::: image-container
-![](pictures/hotelizzy.JPG)
-
-Tel Aviv
+![Tel Aviv](pictures/hotelizzy.JPG)
 :::
 
 ::: image-container
-![](pictures/virginnarrows.JPG)
-
-Virgin Narrows
+![Virgin Narrows](pictures/virginnarrows.JPG)
 :::
 
 ::: image-container
-![](pictures/elephantseals.jpeg)
-
-Elephant Seals
+![Elephant Seals](pictures/elephantseals.jpeg)
 :::
 
 ::: image-container
-![](pictures/santiam.JPG)
-
-Santiam Pass
+![Santiam Pass](pictures/santiam.JPG)
 :::
 
 ::: image-container
-![](pictures/fantasy.jpg)
-
-Fantasy
+![Fantasy](pictures/fantasy.jpg)
 :::
 
 ::: image-container
-![](pictures/grandteton.JPG)
-
-Grand Teton
+![Grand Teton](pictures/grandteton.JPG)
 :::
 
 ```{=html}
