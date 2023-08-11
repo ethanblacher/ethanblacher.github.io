@@ -9,103 +9,103 @@ code-tools: false
 
 ::: image-container
 ![Cal Day](pictures/wAndrew420.JPG)
-::: Cal Day - 2023-04-22
+::: 
 
 ::: image-container
 ![Kumron](pictures/wIdenLeorKumron.jpeg)
-::: Kumron - 2023-01-02
+::: 
 
 ::: image-container
 ![Tap Haus (Berkeley)](pictures/wIdenUCB.JPG)
-::: Tap Haus (Berkeley) - 2023-05-15
+::: 
 
 ::: image-container
 ![Lost Coast](pictures/lostcoast.jpeg)
-::: Lost Coast - 2022-08-08
+::: 
 
 ::: image-container
 ![Bixby Bridge](pictures/big%20sur.jpeg)
-::: Bixby Bridge - 2022-01-12
+::: 
 
 ::: image-container
 ![Capitol Reef](pictures/capitolreef.JPG)
-::: Capitol Reef- 2021-06-24
+::: 
 
 ::: image-container
 ![St. Louis](pictures/boolSTL.jpeg)
-::: St. Louis - 2023-03-02
+::: 
 
 ::: image-container
 ![Deltopia](pictures/deltopia.jpeg)
-::: Deltopia - 2023-04-08
+::: 
 
 ::: image-container
 ![Mega Shabbat](pictures/mega.JPG)
-::: Mega Shabbat - 2023-05-19
+::: 
 
 ::: image-container
 ![Missoula](pictures/missoula.JPG)
-::: Missoula - 2021-07-04
+::: 
 
 ::: image-container
 ![Altra Lone Peak 7](pictures/altra.jpeg)
-:::Altra Lone Peak 7 - 2023-08-04
+:::
 
 ::: image-container
 ![Carmel by the Sea](pictures/carmel.JPG)
-::: Carmel by the Sea - 2022-01-12
+::: 
 
 ::: image-container
 ![Cascade Locks](pictures/cascade.jpeg)
-::: Cascade Locks - 2023-07-31
+::: 
 
 ::: image-container
 ![Iceberg Lake](pictures/iceburglake.JPG)
-::: Iceberg Lake - 2021-07-06
+::: 
 
 ::: image-container
 ![Yosemite](pictures/yosemite.jpeg)
-::: Yosemite - 2023-07-03
+::: 
 
 ::: image-container
 ![The U](pictures/theU.jpg)
-::: The U - 2022-10-15
+::: 
 
 ::: image-container
 ![Back in the Beis](pictures/orayta.JPG)
-::: Back in the Beis - 2023-01-09
+::: 
 
 ::: image-container
 ![Trout Lake Hitch](pictures/troutlake.JPG)
-::: Trout Lake Hitch - 2023-07-07
+::: 
 
 ::: image-container
 ![Tel Aviv](pictures/hotelizzy.JPG)
-::: Tel Aviv - 2022-12-26
+::: 
 
 ::: image-container
 ![Virgin Narrows](pictures/virginnarrows.JPG)
-::: Virgin Narrows - 2021-06-21
+::: 
 
 ::: image-container
 ![Elephant Seals](pictures/elephantseals.jpeg)
-::: Elephant Seals - 2022-08-07
+::: 
 
 ::: image-container
 ![Santiam Pass](pictures/santiam.JPG)
-::: Santiam Pass - 2023-08-07
+::: 
 
 ::: image-container
 ![Fantasy](pictures/fantasy.jpg)
-::: Fantasy - 2019-01-06
+::: 
 
 ::: image-container
 ![Grand Teton](pictures/grandteton.JPG)
-::: Grand Teton - 2021-06-27
+::: 
 
 ::: image-container
 ![Emerald Pools](pictures/emeraldpools.JPG)
-::: Emerald Pools - 2021-06-20
+::: 
 
 ```{=html}
 <style>
@@ -121,13 +121,6 @@ code-tools: false
   width: 100%;
   height: auto;
 }
-
-/* Add custom CSS to sort posts based on their dates */
-{% for post in site.posts %}
-.image-container:has(> p:contains("{{ post.title }}")) {
-  order: {{ post.date | date: "%s" }};
-}
-{% endfor %}
 
 </style>
 ```
