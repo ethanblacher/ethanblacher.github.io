@@ -130,6 +130,4 @@ code-tools: false
 {% endfor %}
 
 </style>
-
-</style>
 ```
