@@ -105,13 +105,21 @@ code-tools: false
 
 ::: image-container
 ![Emerald Pools](pictures/emeraldpools.JPG)
+:::
 
+::: image-container
 ![S.B. Zoo](pictures/1fe09502-159d-4153-a0fc-90662762bd25.JPG)
+:::
 
+::: image-container
 ![Marina Del Ray](pictures/IMG_3225.jpeg)
+:::
 
+::: image-container
 ![YamlYam](pictures/IMG_8706.jpeg)
+:::
 
+::: image-container
 ![Yaakov Dream](pictures/IMG_8753.jpeg)
 :::
 
