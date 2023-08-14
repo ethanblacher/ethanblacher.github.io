@@ -6,20 +6,33 @@ lightbox: auto
 page-layout: full
 code-tools: false
 ---
-
+::: image-container
 ![Bighorn Sheep](pictures/IMG_1812.JPG)
+:::
 
+::: image-container
 ![Green Sea Turtle](pictures/CIMG0514.JPG)
+:::
 
+::: image-container
 ![Alligator Lizard](pictures/CIMG2676.JPG)
+:::
 
+::: image-container
 ![Brown Anole](pictures/DSCF0073.JPG)
+:::
 
+::: image-container
 ![Coyote](pictures/IMG_0901.JPG)
+:::
 
+::: image-container
 ![Mule Deer](pictures/IMG_0281.JPG)
+:::
 
+::: image-container
 ![Common Side-blotched Lizard](pictures/CIMG5036.JPG)
+:::
 
 ```{=html}
 <style>
