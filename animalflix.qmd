@@ -1,0 +1,40 @@
+---
+title: "Nature"
+filters:
+   - lightbox
+lightbox: auto
+page-layout: full
+code-tools: false
+---
+
+![Bighorn Sheep](pictures/IMG_1812.JPG)
+
+![Green Sea Turtle](pictures/CIMG0514.JPG)
+
+![Alligator Lizard](pictures/CIMG2676.JPG)
+
+![Brown Anole](pictures/DSCF0073.JPG)
+
+![Coyote](pictures/IMG_0901.JPG)
+
+![Mule Deer](pictures/IMG_0281.JPG)
+
+![Common Side-blotched Lizard](pictures/CIMG5036.JPG)
+
+```{=html}
+<style>
+.image-container {
+  display: inline-block;
+  width: 32%;
+  padding: 5px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.image-container img {
+  width: 100%;
+  height: auto;
+}
+
+</style>
+```
