@@ -7,46 +7,45 @@ page-layout: full
 code-tools: false
 ---
 
-
 ::: image-container
 ![Cal Day](pictures/wAndrew420.JPG)
-::: 
+:::
 
 ::: image-container
 ![Kumron](pictures/wIdenLeorKumron.jpeg)
-::: 
+:::
 
 ::: image-container
 ![Tap Haus (Berkeley)](pictures/wIdenUCB.JPG)
-::: 
+:::
 
 ::: image-container
 ![Lost Coast](pictures/lostcoast.jpeg)
-::: 
+:::
 
 ::: image-container
 ![Bixby Bridge](pictures/big%20sur.jpeg)
-::: 
+:::
 
 ::: image-container
 ![Capitol Reef](pictures/capitolreef.JPG)
-::: 
+:::
 
 ::: image-container
 ![St. Louis](pictures/boolSTL.jpeg)
-::: 
+:::
 
 ::: image-container
 ![Deltopia](pictures/deltopia.jpeg)
-::: 
+:::
 
 ::: image-container
 ![Mega Shabbat](pictures/mega.JPG)
-::: 
+:::
 
 ::: image-container
 ![Missoula](pictures/missoula.JPG)
-::: 
+:::
 
 ::: image-container
 ![Altra Lone Peak 7](pictures/altra.jpeg)
@@ -54,59 +53,59 @@ code-tools: false
 
 ::: image-container
 ![Carmel by the Sea](pictures/carmel.JPG)
-::: 
+:::
 
 ::: image-container
 ![Cascade Locks](pictures/cascade.jpeg)
-::: 
+:::
 
 ::: image-container
 ![Iceberg Lake](pictures/iceburglake.JPG)
-::: 
+:::
 
 ::: image-container
 ![Yosemite](pictures/yosemite.jpeg)
-::: 
+:::
 
 ::: image-container
 ![The U](pictures/theU.jpg)
-::: 
+:::
 
 ::: image-container
 ![Back in the Beis](pictures/orayta.JPG)
-::: 
+:::
 
 ::: image-container
 ![Trout Lake Hitch](pictures/troutlake.JPG)
-::: 
+:::
 
 ::: image-container
 ![Tel Aviv](pictures/hotelizzy.JPG)
-::: 
+:::
 
 ::: image-container
 ![Virgin Narrows](pictures/virginnarrows.JPG)
-::: 
+:::
 
 ::: image-container
 ![Elephant Seals](pictures/elephantseals.jpeg)
-::: 
+:::
 
 ::: image-container
 ![Santiam Pass](pictures/santiam.JPG)
-::: 
+:::
 
 ::: image-container
 ![Fantasy](pictures/fantasy.jpg)
-::: 
+:::
 
 ::: image-container
 ![Grand Teton](pictures/grandteton.JPG)
-::: 
+:::
 
 ::: image-container
 ![Emerald Pools](pictures/emeraldpools.JPG)
-::: 
+:::
 
 ```{=html}
 <style>
