@@ -12,7 +12,7 @@ code-tools: false
 :::
 
 ::: image-container
-![Kumron](pictures/wIdenLeorKumron.jpeg)
+![![Kumron](pictures/wIdenLeorKumron.jpeg)
 :::
 
 ::: image-container
