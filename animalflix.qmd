@@ -6,6 +6,7 @@ lightbox: auto
 page-layout: full
 code-tools: false
 ---
+
 ::: image-container
 ![Bighorn Sheep](pictures/IMG_1812.JPG)
 :::
