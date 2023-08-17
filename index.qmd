@@ -2,10 +2,9 @@
 <html>
   <head>
     <title>Home</title>
-\<meta name="google-site-verification" content="qNCmtSUSGFXjzxO9mwZiF20njs-lkgQXxcVR3j9HQpg" /\>
+<meta name="google-site-verification" content="qNCmtSUSGFXjzxO9mwZiF20njs-lkgQXxcVR3j9HQpg" />
   </head>
 <body>
-
 ---
 title: "Ethan Blacher"
 image: headshot.jpg
