@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Ethan Blacher"
+  title: "<meta name="google-site-verification" content="qNCmtSUSGFXjzxO9mwZiF20njs-lkgQXxcVR3j9HQpg" />"
   navbar:
     left:
       - href: index.qmd

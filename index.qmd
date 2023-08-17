@@ -1,7 +1,5 @@
-# \<meta name="google-site-verification" content="qNCmtSUSGFXjzxO9mwZiF20njs-lkgQXxcVR3j9HQpg" /\>
-
 ---
-title: "<meta name="google-site-verification" content="qNCmtSUSGFXjzxO9mwZiF20njs-lkgQXxcVR3j9HQpg" />"
+title: "Ethan"
 image: headshot.jpg
 about: 
   template: trestles
@@ -20,8 +18,6 @@ about:
 ---
 
 Hi, I'm Ethan and thanks for visiting my site!
-
-google6b3a4eb18b97a649.html
 
 # **Education**
 
