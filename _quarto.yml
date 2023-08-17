@@ -3,11 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: <meta name="google-site-verification" content="qNCmtSUSGFXjzxO9mwZiF20njs-lkgQXxcVR3j9HQpg" />
+  title: Ethan Blacher
   navbar:
     left:
       - href: index.qmd
-        text: <meta name="google-site-verification" content="qNCmtSUSGFXjzxO9mwZiF20njs-lkgQXxcVR3j9HQpg" />
+        text: Home
       - posts.qmd # add your posts.qmd file to your navbar!
       - text: Photos
         href: photogallery.qmd #add your photogallery.qmd to your navbar!
