@@ -1,10 +1,15 @@
-
 <html>
-  <head>
-    <title>Home</title>
+
+<head>
+
+<title>Home</title>
+
 <meta name="google-site-verification" content="qNCmtSUSGFXjzxO9mwZiF20njs-lkgQXxcVR3j9HQpg" />
-  </head>
+
+</head>
+
 <body>
+
 ---
 title: "Ethan Blacher"
 image: headshot.jpg
