@@ -7,7 +7,7 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: <meta name="google-site-verification" content="qNCmtSUSGFXjzxO9mwZiF20njs-lkgQXxcVR3j9HQpg" />
       - posts.qmd # add your posts.qmd file to your navbar!
       - text: Photos
         href: photogallery.qmd #add your photogallery.qmd to your navbar!
