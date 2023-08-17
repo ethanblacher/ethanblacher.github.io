@@ -6,7 +6,7 @@
 
 <meta name="google-site-verification" content="qNCmtSUSGFXjzxO9mwZiF20njs-lkgQXxcVR3j9HQpg" />
 
-</head>
+# \</head\>
 
 <body>
 
