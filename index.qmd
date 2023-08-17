@@ -1,5 +1,5 @@
 ---
-title: "Ethan"
+title: "Ethan Blacher"
 image: headshot.jpg
 about: 
   template: trestles
