@@ -151,7 +151,7 @@ code-tools: false
 ![PwC Disney](pictures/450200a5-49a4-4dd8-8602-7588449da30e.JPG)
 :::
 
-```{=html
+```{=html}
 <style>
 .image-container {
   display: inline-block;
