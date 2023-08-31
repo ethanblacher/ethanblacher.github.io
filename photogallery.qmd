@@ -120,7 +120,35 @@ code-tools: false
 :::
 
 ::: image-container
-![Yaakov Dream](pictures/IMG_8753.jpeg)
+![More Yam](pictures/IMG_8753.jpeg)
+:::
+
+::: image-container
+![Saved Shabbos](pictures/img_0192.jpg)
+:::
+
+::: image-container
+![305](pictures/IMG_0819.jpg)
+:::
+
+::: image-container
+![Clip City Chip City](pictures/IMG_2735.JPG)
+:::
+
+::: image-container
+![Bubble](pictures/IMG_8605.JPG)
+:::
+
+::: image-container
+![Baka](pictures/IMG_5487.jpeg)
+:::
+
+::: image-container
+![🐺](pictures/96e6fac1-79f5-4ec5-869e-936c75ec214f.jpg)
+:::
+
+::: image-container
+![PwC Disney](pictures/450200a5-49a4-4dd8-8602-7588449da30e.JPG)
 :::
 
 ```{=html}
