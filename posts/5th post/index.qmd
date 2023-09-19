@@ -2,7 +2,7 @@
 title: "Gaza and Israel: A Tale of Two Ideologies"
 description: " "
 author: "Ethan Blacher"
-date: "5/24/2023"
+date: "11/22/2020"
 image: gazaizzy.jpeg
 ---
 

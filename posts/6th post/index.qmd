@@ -2,7 +2,7 @@
 title: "Adult Sea Turtles and Predation"
 description: " "
 author: "Ethan Blacher"
-date: "5/24/2023"
+date: "10/16/2022"
 image: turtle.jpeg 
 ---
 
