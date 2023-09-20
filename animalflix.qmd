@@ -36,31 +36,43 @@ code-tools: false
 :::
 
 ::: image-container
-![Crab](pictures/crab.JPG)
+![Striped Shore Crab](pictures/crab.JPG)
 :::
 
 ::: image-container
-![Vanessa](pictures/vanessa.jpg)
+![Vanessa Butterfly](pictures/vanessa.jpg)
 :::
 
 ::: image-container
-![Banana Slug](pictures/slug)
+![Banana Slug](pictures/slug.jpeg)
 :::
 
 ::: image-container
-![Vanessa](pictures/vanessa.jpg)
+![Gold Dust Day Gecko](picture/goldgeck.JPG)
 :::
 
 ::: image-container
-![Vanessa](pictures/vanessa.jpg)
+![Hunting](pictures/prey.jpg)
 :::
 
 ::: image-container
-![Vanessa](pictures/vanessa.jpg)
+![Sea Stars](pictures/starfush.jpg)
 :::
 
 ::: image-container
 ![Manta Rays](pictures/manta.MP4)
+:::
+
+::: image-container
+![Cows](pictures/cows.jpg)
+:::
+
+::: image-container
+![Swallowtail butterfly](pictures/swallotail.jpg)
+:::
+
+::: image-container
+![Plateau Lizard](pictures/lizidf.JPG)
 :::
 
 ```{=html}
