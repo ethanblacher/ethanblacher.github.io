@@ -48,7 +48,7 @@ code-tools: false
 :::
 
 ::: image-container
-![Gold Dust Day Gecko](picture/goldgeck.JPG)
+![Gold Dust Day Gecko](pictures/goldgeck.JPG)
 :::
 
 ::: image-container
@@ -118,6 +118,42 @@ code-tools: false
 
 ::: image-container
 ![Chipmunk](pictures/chip.JPG)
+:::
+
+::: image-container
+![Mountain Goat](pictures/MountainG.JPG)
+:::
+
+::: image-container
+![Moray Eel](pictures/eel.JPG)
+:::
+
+::: image-container
+![Great Grey Owl](pictures/grey.JPG)
+:::
+
+::: image-container
+![Moorish Idol](pictures/moor.JPG)
+:::
+
+::: image-container
+![Convict Tang](pictures/convict.JPG)
+:::
+
+::: image-container
+![Ornate Butterflyfish](pictures/ornate.JPG)
+:::
+
+::: image-container
+![Humuhumunukunukuāpuaʻa](pictures/state.JPG)
+:::
+
+::: image-container
+![Sailfin Tang](pictures/sailfin.JPG)
+:::
+
+::: image-container
+![Lavender Tang](pictures/surgeon.JPG)
 :::
 
 
