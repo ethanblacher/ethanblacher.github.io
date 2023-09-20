@@ -35,6 +35,34 @@ code-tools: false
 ![Common Side-blotched Lizard](pictures/CIMG5036.JPG)
 :::
 
+::: image-container
+![Crab](pictures/crab.JPG)
+:::
+
+::: image-container
+![Vanessa](pictures/vanessa.jpg)
+:::
+
+::: image-container
+![Banana Slug](pictures/slug)
+:::
+
+::: image-container
+![Vanessa](pictures/vanessa.jpg)
+:::
+
+::: image-container
+![Vanessa](pictures/vanessa.jpg)
+:::
+
+::: image-container
+![Vanessa](pictures/vanessa.jpg)
+:::
+
+::: image-container
+![Manta Rays](pictures/manta.MP4)
+:::
+
 ```{=html}
 <style>
 .image-container {
