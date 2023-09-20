@@ -72,8 +72,54 @@ code-tools: false
 :::
 
 ::: image-container
-![Plateau Lizard](pictures/lizidf.JPG)
+![Plateau Lizard](pictures/lizidk.JPG)
 :::
+
+::: image-container
+![Marten](pictures/qt.JPG)
+:::
+
+::: image-container
+![Brittle Star](pictures/Brittlestar.JPG)
+:::
+
+::: image-container
+![Great Horned Owl](pictures/horn.JPG)
+:::
+
+::: image-container
+![Swallotail Caterpillar](pictures/CIMG2371.JPG)
+:::
+
+::: image-container
+![Columbia Spotted Frog](pictures/columiba.JPG)
+:::
+
+::: image-container
+![Sea Lion](pictures/sealion.JPG)
+:::
+
+
+::: image-container
+![Bull (Elk)](pictures/bull.JPG)
+:::
+
+::: image-container
+![Pronghorn](pictures/pring.JPG)
+:::
+
+::: image-container
+![Bulls (Moose)](pictures/mooseman.JPG)
+:::
+
+::: image-container
+![Cow (Moose)](pictures/moosecow.JPG)
+:::
+
+::: image-container
+![Chipmunk](pictures/chip.JPG)
+:::
+
 
 ```{=html}
 <style>
