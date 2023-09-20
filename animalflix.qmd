@@ -68,7 +68,7 @@ code-tools: false
 :::
 
 ::: image-container
-![Swallowtail butterfly](pictures/swallotail.jpg)
+![Swallowtail Butterfly](pictures/swallotail.JPG)
 :::
 
 ::: image-container
@@ -98,7 +98,6 @@ code-tools: false
 ::: image-container
 ![Sea Lion](pictures/sealion.JPG)
 :::
-
 
 ::: image-container
 ![Bull (Elk)](pictures/bull.JPG)
@@ -155,7 +154,6 @@ code-tools: false
 ::: image-container
 ![Lavender Tang](pictures/surgeon.JPG)
 :::
-
 
 ```{=html}
 <style>
