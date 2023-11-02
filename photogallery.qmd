@@ -157,6 +157,8 @@ code-tools: false
 
 ![Elaphiti Islands](pictures/IMG_3092.jpeg)
 
+![Dubrovnik Shul](pictures/IMG_6182.jpeg)
+
 ```{=html}
 <style>
 .image-container {
