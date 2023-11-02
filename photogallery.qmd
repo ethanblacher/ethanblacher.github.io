@@ -1,5 +1,5 @@
 ---
-title: "Pictures with Freinds"
+title: "Lads"
 filters:
    - lightbox
 lightbox: auto
@@ -150,6 +150,12 @@ code-tools: false
 ::: image-container
 ![PwC Disney](pictures/450200a5-49a4-4dd8-8602-7588449da30e.JPG)
 :::
+
+![Plitvice Lakes](pictures/IMG_2721.jpeg)
+
+![Lokrum Kayak](pictures/IMG_6112.jpeg)
+
+![Elaphiti Islands](pictures/IMG_3092.jpeg)
 
 ```{=html}
 <style>
