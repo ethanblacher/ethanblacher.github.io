@@ -151,13 +151,21 @@ code-tools: false
 ![PwC Disney](pictures/450200a5-49a4-4dd8-8602-7588449da30e.JPG)
 :::
 
+::: image-container
 ![Plitvice Lakes](pictures/IMG_2721.jpeg)
+:::
 
-![Lokrum Kayak](pictures/IMG_6112.jpeg)
+::: image-container
+![Elaphiti Islands](pictures/IMG_3092.jpeg){alt="Elaphiti Islands"}
+:::
 
-![Elaphiti Islands](pictures/IMG_3092.jpeg)
+::: image-container
+![Lokrum Kayak](pictures/IMG_6112.jpeg){alt="Lokrum Kayak"}
+:::
 
+::: image-container
 ![Dubrovnik Shul](pictures/IMG_6182.jpeg)
+:::
 
 ```{=html}
 <style>
