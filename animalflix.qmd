@@ -155,7 +155,9 @@ code-tools: false
 ![Lavender Tang](pictures/surgeon.JPG)
 :::
 
+::: image-container
 ![Snow Monkey](pictures/monkey.jpeg)
+:::
 
 ```{=html}
 <style>
