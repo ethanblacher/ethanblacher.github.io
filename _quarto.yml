@@ -11,7 +11,7 @@ website:
       - posts.qmd # add your posts.qmd file to your navbar!
       - text: Lads
         href: photogallery.qmd #add your photogallery.qmd to your navbar!
-      - text: Nature
+      - text: Wildlife
         href: animalflix.qmd
         
 
