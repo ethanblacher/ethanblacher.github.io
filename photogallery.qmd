@@ -164,7 +164,27 @@ code-tools: false
 :::
 
 ::: image-container
-![Dubrovnik Shul](pictures/IMG_6182.jpeg)
+![Bridge to Nowhere](pictures/IMG_4409.jpeg)
+:::
+
+::: image-container
+![Osaka Castle](pictures/IMG_6694.jpeg)
+:::
+
+::: image-container
+![Mt. Fuji](pictures/IMG_6078.JPG)
+:::
+
+::: image-container
+![Ha Long Bay](pictures/IMG_7036.jpeg)
+:::
+
+::: image-container
+![Shimanami Kaido](pictures/F4E5A1D4-5460-4394-819F-E683C9433BA4.JPG)
+:::
+
+::: image-container
+![Fishin'](pictures/IMG_7069.jpeg)
 :::
 
 ```{=html}
