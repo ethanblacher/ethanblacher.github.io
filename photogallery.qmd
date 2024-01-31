@@ -189,8 +189,14 @@ code-tools: false
 
 ::: image-container
 ![JR\... Sean Kingston!](pictures/6C58AF68-3831-4751-84E3-23261B263404.JPG)
+:::
 
+::: image-container
 ![Lost in Translation](pictures/25BFD9C5-7388-4044-8650-412ECC8C502A.JPG)
+:::
+
+::: image-container
+![LEED x Soju](pictures/04E19CF0-0507-4C86-998E-CE6ABC798712.JPG)
 :::
 
 ```{=html}
