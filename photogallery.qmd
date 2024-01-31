@@ -196,7 +196,7 @@ code-tools: false
 :::
 
 ::: image-container
-![LEED x Soju](pictures/04E19CF0-0507-4C86-998E-CE6ABC798712.JPG)
+![LEED x Soju](pictures/04E19CF0-0507-4C86-998E-CE6ABC798712.JPG){width="1407"}
 :::
 
 ```{=html}
