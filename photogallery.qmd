@@ -189,6 +189,8 @@ code-tools: false
 
 ::: image-container
 ![JR\... Sean Kingston!](pictures/6C58AF68-3831-4751-84E3-23261B263404.JPG)
+
+![Lost in Translation](pictures/25BFD9C5-7388-4044-8650-412ECC8C502A.JPG)
 :::
 
 ```{=html}
