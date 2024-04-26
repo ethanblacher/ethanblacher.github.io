@@ -120,7 +120,7 @@ code-tools: false
 :::
 
 ::: image-container
-![Mountain Goat](pictures/MountainG.JPG)
+![Lebron](pictures/MountainG.JPG)
 :::
 
 ::: image-container
@@ -157,6 +157,14 @@ code-tools: false
 
 ::: image-container
 ![Snow Monkey](pictures/monkey.jpeg)
+:::
+
+::: image-container
+![Mapache](pictures/httpsvgroupmecom7071130920220225T042646Z9b429f83840x2160r90mp4_..MP4)
+:::
+
+::: image-container
+![Bison](pictures/IMG_3356.JPG)
 :::
 
 ```{=html}
