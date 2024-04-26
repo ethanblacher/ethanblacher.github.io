@@ -199,6 +199,18 @@ code-tools: false
 ![LEED x Soju](pictures/04E19CF0-0507-4C86-998E-CE6ABC798712.JPG){width="1013"}
 :::
 
+::: image-container
+![Mt. Wilson](pictures/IMG_7547.jpeg)
+:::
+
+::: image-container
+![LGD](pictures/IMG_6783.jpeg)
+:::
+
+::: image-container
+![Deltopia part deux](pictures/IMG_5925.JPG)
+:::
+
 ```{=html}
 <style>
 .image-container {
