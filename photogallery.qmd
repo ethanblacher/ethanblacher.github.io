@@ -204,10 +204,6 @@ code-tools: false
 :::
 
 ::: image-container
-![LGD](pictures/IMG_6783.jpeg)
-:::
-
-::: image-container
 ![Deltopia part deux](pictures/IMG_5925.JPG)
 :::
 
